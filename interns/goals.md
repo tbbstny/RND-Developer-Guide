@@ -1,8 +1,10 @@
 # Intern Goals
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 ## MIC 1st Year
 
-Goal | Guiding Behaviors
+Goal | Guiding Behavior
 ------------ | -------------
 **Complete Assigned Curriculum** - Curriculum will be defined based on project(s) assigned. Learn how to learn in a fast paced, ever changing field of software development. | **Develop Talent**<br>Improve skills
 **Help improve internship on-boarding / training program** - Compare / contrast your on-boarding experiences with your MIC peers inside and outside of DST. What would you change? How can we make it better for the next round of interns? | **Collaborate**<br>R&D and Training<br><br>**Develop Talent**<br>Improve the process for others
@@ -14,6 +16,6 @@ Goal | Guiding Behaviors
 
 ## MIC 2nd & 3rd Year
 
-Goal | Guiding Behaviors
+Goal | Guiding Behavior
 ------------ | -------------
 **Learn / Explore / Communicate Technology** - Continue to build on this practice started during the 1st year internship. If you've not started already, now's the time to tackle some bigger items like whole books or complete online courses. Be sure to publish your summary and share with your manager.<br><br>Recommendations:<br><br><ul><li>[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert "Uncle Bob" Martin<li>[Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124) by Eric Freeman, Elisabeth Robson, Bert Bates and Kathy Sierra<li>Other<ul> | **Develop Talent**<br>Increase knowledge and Improve skills<br><br>**Communicate Effectively**<br>Practice Clear and Concise Communication
