@@ -20,5 +20,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 5.	Ask for help 
     * Yes, you should try and giver out problem by yourself (this is how most learning will be done)
     * Use Google, don’t be afraid.  Google is a tool to get your work done.  Unlike school you will not get in trouble for doing research online. 
-    * (IMPORTANT) if your research is taking longer than an hour or two for one problem … ask for help from co-workers or senior associates. 
-We don’t want issues to linger, we want to keep having progress in our work. 
+    * (IMPORTANT) if your research is taking longer than an hour or two for one problem … ask for help from co-workers or senior associates. We don’t want issues to linger, we want to keep having progress in our work. 
+6.	There’s No bad questions 
+    * No question is a bad question as long as you learn from it. 
+    * The only issue with questions is when the same question is continually asked (take notes of answers if it is something that might come up again)
+7.	Seek out tasks that you don’t have experience with
+    * This is how you learn and grow!
+8.	When you learn something new, share it with your team
+     * Take a few minutes to walk them through the problem/solution.
+     * They may or may not have encountered something similar or have a different perspective.  Either way, the whole team benefits from the collective knowledge.
+9.	Don’t be afraid to try.  Some of the biggest lessons are in making “mistakes” or “failures”.  
+10. Make it work, make it right, make it fast.  A short sound bite that captures the cadence and evolutionary nature of development.  First goal is to get something working.  Next, once working, refactor and clean up the code.  Lastly, don’t over complicate it, but make the code as efficient as necessary.  20 years in and I still sling pages of code that clean-up to just a few lines or simple functions.
