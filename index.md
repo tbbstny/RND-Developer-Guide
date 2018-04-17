@@ -2,7 +2,7 @@
 
 Everything a R&D developer needs in one place.
 
-## Built With
+## Links
 
 * [GitLab](https://code.dstcorp.net/) - Git-repository manager
 * [Trello](https://trello.com/kcrdteam) - Used to track task on projects
